@@ -7,6 +7,7 @@ Luis Eduardo Meireles Silva
 
 **Curso e semestre:**  
 Gestão da Tecnologia da Informação - 5º Semestre
+Turma: GTI.5NA
 
 **Breve descrição da experiência com a disciplina:**  
 Durante a disciplina, tive uma boa experiência e pude aprender sobre a importância dos testes no desenvolvimento de software. Entendi como o Quality Assurance ajuda a garantir que os sistemas sejam mais seguros, estáveis e confiáveis. Também explorei diferentes tipos de testes e utilizei ferramentas como Google Colab e GitHub, o que facilitou a prática e o aprendizado ao longo do semestre.
