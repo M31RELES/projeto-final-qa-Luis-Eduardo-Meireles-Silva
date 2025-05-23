@@ -50,7 +50,8 @@ Aprendi que monitorar a aplicação mesmo depois da entrega é essencial. Com o 
 - [GitHub](https://github.com/)
 - [ReqRes (API para testes)](https://reqres.in/)
 - [UptimeRobot](https://uptimerobot.com/)
-
+- [Fake Filler](https://fakefiller.com/)
+- [Ghost Inspector](https://ghostinspector.com/)
 
 ## 5. Resultados dos Testes
 
